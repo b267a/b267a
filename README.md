@@ -5,7 +5,7 @@
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on automation tasks
-- 🌱 I’m currently learning JavaScript / HTML & Usage of AI with Roboflow
+- 🌱 I’m currently learning JavaScript / HTML & Usage of AI with YOLO and Roboflow
 - 📫 How to reach me: E-Mail
 
 ---
