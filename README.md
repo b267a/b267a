@@ -2,15 +2,16 @@
 
 ---
 
-### :men_technologist: About Me :
+### 👨‍💻: About Me :
 
-- 🔭 I’m currently working on automation tasks
-- 🌱 I’m currently learning JavaScript / HTML & Usage of AI with YOLO and Roboflow
-- 📫 How to reach me: E-Mail
+- 🔭 Working on: web-based automation tasks
+- 🌱 Learning: JavaScript / HTML & Usage of AI with YOLO and Roboflow
+- 🏫 Studying: Computer Science
+- 📫 How to reach me? -> E-Mail
 
 ---
 
-### 🔥 My stats :
+### 🔥 My (public) stats :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b267a&show_icons=true&theme=highcontrast)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b267a%20&theme=highcontrast)
