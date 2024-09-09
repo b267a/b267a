@@ -2,7 +2,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :men_technologist: About Me :
 
 - 🔭 I’m currently working on automation tasks
 - 🌱 I’m currently learning JavaScript / HTML & Usage of AI with YOLO and Roboflow
