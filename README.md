@@ -7,7 +7,7 @@
 - 🔭 Working on: web-based automation tasks
 - 🌱 Learning: JavaScript / HTML & Usage of AI with YOLO and Roboflow
 - 🏫 Studying: Computer Science
-- 📫 How to reach me? -> E-Mail
+- 📫 How to reach me? -> E-Mail b267a (at) protonmail (dot) com
 
 ---
 
